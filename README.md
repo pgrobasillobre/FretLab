@@ -11,6 +11,7 @@
 - [About](#about)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Publications](#publications)
 - [License](#license)
 - [Contact](#contact)
 
@@ -128,6 +129,11 @@ To see example input files and different configuration options, refer to the fil
 tests/
 ```
 
+## Publications
+
+FretLab has been used in the following research paper(s):
+
+- **Grobas Illobre, P.**; Sodomaco, S.; Lafiosca, P.; Giovannini, T.; Cappelli, C. *The Role of Atomistic Tip Morphology in Tip-Enhanced Electronic Energy Transfer.* **Nano Lett.** *2026*. https://doi.org/10.1021/acs.nanolett.6c03248
 
 ## License
 
